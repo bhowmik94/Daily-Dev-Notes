@@ -4,7 +4,9 @@ This is my personal space for keeping tabs on daily learning activities. This re
 🌈 Daily quote: Early bird gets the worm!
 
 ## 12/10/2025
-- 
+- Added new loader for NotePilot frontend project.
+- Changed landing page and internal pages background for the whole app, created a reusable background-wrapper component.
+- Started JavaScript30 course by Wesbos.
 
 ## 11/10/2025
 - Split single frontend CI into multiple jobs (Lint, Format, Test, Build, etc.).
