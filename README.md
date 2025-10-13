@@ -3,6 +3,13 @@ This is my personal space for keeping tabs on daily learning activities. This re
 
 🌈 Daily quote: Early bird gets the worm!
 
+## 13/10/2025
+- Properly implemented refresh token functionality to both NotePilot backend and frontend app.
+- Deployed both app to render and vercel.
+- From JavaScript30:
+  - made a very simple JS clock by leveraging CSS transform property.
+  - short and fun tutorial on using CSS variable and manipulating it with JS.
+
 ## 12/10/2025
 - Added new loader for NotePilot frontend project.
 - Changed landing page and internal pages background for the whole app, created a reusable background-wrapper component.
