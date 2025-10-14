@@ -3,6 +3,13 @@ This is my personal space for keeping tabs on daily learning activities. This re
 
 🌈 Daily quote: Early bird gets the worm!
 
+## 14/10/2025
+- Implemented a new landing page (home) for NotePilot UI.
+- Started coding through feature branches to fully utilize branch protection and GitHub CI.
+- Revised normal vs arrow vs higher-order functions in JS.
+- Finished JavaScript30s array cardio exercise.
+- Learned the use of ````console.table````.
+
 ## 13/10/2025
 - Properly implemented refresh token functionality to both NotePilot backend and frontend app.
 - Deployed both app to render and vercel.
