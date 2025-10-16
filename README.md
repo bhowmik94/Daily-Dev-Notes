@@ -3,6 +3,12 @@ This is my personal space for keeping tabs on daily learning activities. This re
 
 🌈 Daily quote: Early bird gets the worm!
 
+##16/10/2025
+- Modified langing page view with consistent card and container styling.
+- Refactored codebase by creating reusable modular components.
+- Fixed CORS issue for NotePilot backend.
+- JavaScript30 chapter 5
+
 ## 14/10/2025
 - Implemented a new landing page (home) for NotePilot UI.
 - Started coding through feature branches to fully utilize branch protection and GitHub CI.
